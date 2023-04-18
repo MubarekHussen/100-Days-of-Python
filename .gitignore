@@ -1,0 +1,8 @@
+*/*/.cache
+*/*/replit.nix
+*/*/.config
+*/*/.replit
+*/*/replit_zip_error_log.txt
+*/*/venv
+*/*/.upm
+*/*/__pycache__
