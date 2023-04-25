@@ -48,6 +48,8 @@ e.g. When you hit **run**, this is what should happen:
 ![](https://cdn.fs.teachablecdn.com/Nzb8hUVsQJ6STAGnvDCP)
  
 
+
+
 # Hint
 
 1. Remember to use the `round()` function to round the average height before you print it.
