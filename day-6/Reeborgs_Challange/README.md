@@ -12,4 +12,4 @@ You may have noticed that your solution has some repeated patterns. If you know 
 ![Screenshot from 2023-05-05 18-43-45](https://user-images.githubusercontent.com/96715809/236521629-89646b82-547e-48a9-9499-aed6e826f1a3.png)
 ## [visit](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json)
 ### To pass the challenge put the following code to the python code section and run it.
-open: [challange.py](https://github.com/MubarekHussen/100-Days-of-Python/blob/main/day-6/challange.py)
+open: [challange.py](https://github.com/MubarekHussen/100-Days-of-Python/blob/main/day-6/Reeborgs_Challange/challange.py)
