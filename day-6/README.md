@@ -6,7 +6,7 @@ Reeborg has entered a hurdles race. Make him run the course, following the path 
 ### Difficulty level
 ![Screenshot from 2023-05-05 18-43-34](https://user-images.githubusercontent.com/96715809/236521528-751968a6-c9c7-4d27-bce6-5408b373d9a0.png)
 ## More advanced
-You may have noticed that your solution has some repeated patterns. If you know how to define functions, define a function named jump() and use it to simplify your program.\
+You may have noticed that your solution has some repeated patterns. If you know how to define functions, define a function named jump() and use it to simplify your program.
 
 ### Difficulty level
 ![Screenshot from 2023-05-05 18-43-45](https://user-images.githubusercontent.com/96715809/236521629-89646b82-547e-48a9-9499-aed6e826f1a3.png)
