@@ -1,7 +1,7 @@
-### visit 'ps://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json'
+### visit **(ps://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json)**
 ## To pass the challenge put the following code to the python code section and run it.
 
-def turn_right():
+'def turn_right():
     turn_left()
     turn_left()
     turn_left()
@@ -16,3 +16,4 @@ def jump():
     turn_left()
 for i in range(0,6):
     jump()
+'
