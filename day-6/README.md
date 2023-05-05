@@ -1,5 +1,4 @@
 # Hurdles race
-(file:///home/mubarek/Pictures/Screenshots/Screenshot%20from%202023-05-05%2018-44-05.png)
 Reeborg has entered a hurdles race. Make him run the course, following the path shown.
 ### What you need to know
 - The functions move() and turn_left().
