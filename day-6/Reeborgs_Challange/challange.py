@@ -11,5 +11,5 @@ def jump():
     turn_right()
     move()
     turn_left()
-for i in range(0,6):
+while (not at_goal()):
     jump()
