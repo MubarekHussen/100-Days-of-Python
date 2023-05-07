@@ -27,7 +27,3 @@ while (not at_goal()):
     if (at_goal()):
         break
     down()
-################################################################
-# WARNING: Do not change this comment.
-# Library Code is below.
-################################################################
