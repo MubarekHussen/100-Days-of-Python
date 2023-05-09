@@ -13,3 +13,4 @@ You may have noticed that your solution has some repeated patterns. If you know 
 ## [visit](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json)
 ### To pass the challenge put the following code to the python code section and run it.
 open: [challange.py](https://github.com/MubarekHussen/100-Days-of-Python/blob/main/day-6/Reeborgs_Challenge/challenge.py)
+- There are another same but kind of a bit difficult too and check them
