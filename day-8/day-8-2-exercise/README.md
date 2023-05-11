@@ -10,7 +10,7 @@ Login to your Udemy course and head over to the link below to get the sign up li
 
 # Instructions
 
-Prime numbers are numbers that can only be cleanly divided by itself and 1. 
+ Prime numbers are numbers that can only be cleanly divided by itself and 1. 
 
 [https://en.wikipedia.org/wiki/Prime_number](https://en.wikipedia.org/wiki/Prime_number)
 
